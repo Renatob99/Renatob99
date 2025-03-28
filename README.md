@@ -12,8 +12,6 @@ Sou desenvolvedor(a) de [sua área de atuação, como desenvolvimento web, IA, e
 - [Projeto 2](link do repositório): Descrição curta sobre o que é o projeto.
 
 ### 📈 Estatísticas do GitHub
-![Status do build](https://img.shields.io/badge/build-passing-brightgreen)
-
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Renatob99&show_icons=true&theme=radical)
 
 ### 🌍 Me encontre em
